@@ -1,8 +1,6 @@
 ### Hi there 👋
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://art.pixilart.com/4f9d05c005154e1.png">
- <source media="(prefers-color-scheme: light)" srcset="https://art.pixilart.com/4f9d05c005154e1.png">
- <img alt="YOUR-ALT-TEXT" src="https://art.pixilart.com/4f9d05c005154e1.png">
+ <img alt="YOUR-ALT-TEXT" src="https://i.pinimg.com/564x/9a/dd/94/9add94f37391cccadacbe8d4ecef8e58.jpg">
 </picture>
 
 <!--
