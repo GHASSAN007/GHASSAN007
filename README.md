@@ -1,6 +1,6 @@
 ### Hi there 👋
 <picture>
- <img alt="YOUR-ALT-TEXT" src="https://i.pinimg.com/564x/9a/dd/94/9add94f37391cccadacbe8d4ecef8e58.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 </picture>
 
 <!--
