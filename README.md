@@ -4,7 +4,7 @@
 ### Hi there, I'm Ghassan 👋
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bitliu/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:ghassan.mohder78@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](ghassan.mohder78@gmail.com)
 
 <!--
 **GHASSAN007/GHASSAN007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
